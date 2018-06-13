@@ -4,7 +4,16 @@
 	"description": "",
 	"main": "./locales/zh-TW.json",
 	"unpkg": "./locales/zh-TW.json",
-	"keywords": [],
+	"keywords": [
+		"vue",
+		"vue-cli",
+		"translation",
+		"zh-TW"
+	],
 	"author": "maple3142",
-	"license": "MIT"
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/maple3142/vue-cli-locale-zh-tw/issues"
+	},
+	"homepage": "https://github.com/maple3142/vue-cli-locale-zh-tw"
 }
