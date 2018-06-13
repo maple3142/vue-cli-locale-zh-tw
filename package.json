@@ -1,0 +1,10 @@
+{
+	"name": "vue-cli-locale-zh-tw",
+	"version": "1.0.0",
+	"description": "",
+	"main": "./locales/zh-TW.json",
+	"unpkg": "./locales/zh-TW.json",
+	"keywords": [],
+	"author": "maple3142",
+	"license": "MIT"
+}
